@@ -1,3 +1,5 @@
+Note: We are in the process of moving this gem into Aquarium.
+
 # Aquadoc
 
 The `aquadoc` gem will generate a github repository and web page to publish and share a set of [Aquarium](http://klavinslab.org/aquarium) operation types and their protocols.
